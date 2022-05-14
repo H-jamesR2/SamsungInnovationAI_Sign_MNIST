@@ -1,0 +1,1 @@
+# SamsungInnovationAI_Sign_MNIST
