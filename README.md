@@ -45,3 +45,19 @@
 - J and Z require motion
 - There is no count for 9 = J and 25 = Z
 - Highest count is Q
+
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture4.png' width=75%>
+
+### Dataset Image Previews:
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture5.png'>
+
+## Models:
+### Model 1: Stochastic Gradient Descent Architecture
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture6.png' width=60%>
+
+- Built a custom SGD model using Convolution2D Layers and Dense Layers with a total of 1,526,425 trainable params.
+- Used Max-pooling, Dropout, and Decay for Regularization..
+
+#### Model 1: SGD Results
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture7.png' width=60%>
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture8.png' width=60%>
