@@ -96,7 +96,7 @@
 - Computationally expensive
 - There is no specific rule for determining the structure of a neural network.
 
-## VIDEO DEMO: Using Stochastic Gradient Descent Model
+## OpenCV GUI video demo: Using Stochastic Gradient Descent Model
 https://user-images.githubusercontent.com/44310168/171088029-94118568-ba2d-4faa-a12b-fca5e1f464ab.mov
 
 ## Future Possible Improvemenets:
