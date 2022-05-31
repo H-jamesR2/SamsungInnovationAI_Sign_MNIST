@@ -1,1 +1,1 @@
-# SamsungInnovationAI_Sign_MNIST
+# Samsung Innovation Campus AI_Sign_MNIST
