@@ -85,3 +85,26 @@
 
 ## Model 2 + 3: Results
 <img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture13.png' width=95%>
+
+### ResNET Drawbacks:
+- requires higher image sizes
+- lower performance compared to a cnn model 
+- Increased complexity of architecture
+- Computationally expensive
+- There is no specific rule for determining the structure of a neural network.
+
+## VIDEO DEMO: Using Stochastic Gradient Descent Model
+https://user-images.githubusercontent.com/44310168/171088029-94118568-ba2d-4faa-a12b-fca5e1f464ab.mov
+
+## Future Possible Improvemenets:
+- Expand diversity of dataset by getting different individuals to model letter types (excluding J and Z which require motion).
+  - potential factors: size of hand, colour of hand
+- Implement Data Augmentation (rotations, flipping, etc..) to improve model robustness .
+- Increase image sizes to improve training generalization and improve live-testing accuracy.
+- Continue fine-tuning the Hyperparameters and the complexity of the hidden layers in order to optimize models’ performance.
+
+# Conclusion:
+- Our code configuration was able to reasonably capture dynamic webcam data from the user using openCV to use for our model’s prediction algorithm.
+
+- Further improvements must be made to increase model accuracy, improve generalization in order to enhance communication for individuals with hearing impairment and build a more inclusive society.
+
