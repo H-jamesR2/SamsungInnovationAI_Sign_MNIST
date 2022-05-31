@@ -60,4 +60,28 @@
 
 #### Model 1: SGD Results
 <img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture7.png' width=60%>
-<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture8.png' width=60%>
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture8.png' width=75%>
+
+### Model 2: Pretrained ResNET Model 
+- Introduced by Microsoft Research 
+- Increasing network depth does not work by simply stacking layers together.
+- applies concept of skip connection
+- avoid small gradients by allowing this alternate shortcut path for gradient to flow through
+- recommended to have a minimum shape of 32,32, (+ #of feature channels)
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture9.png' width=75%>
+
+#### Model 2: ResNET Architecture
+<div>
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture10.png' width=40%>
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture11.png' width=40%>
+</div>
+
+### Model 3: Custom Model RMSprop CNN
+- most commonly applied to analyze visual imagery
+- CNNs are regularized versions of multilayer perceptrons. 
+- Multilayer perceptrons usually mean fully connected networks. 
+- Each neuron in one layer is connected to all neurons in the next layer.
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture12.png' width=70%>
+
+## Model 2 + 3: Results
+<img src='https://github.com/Jamswhat2/SamsungInnovationAI_Sign_MNIST/blob/main/project_folder/Picture13.png' width=95%>
