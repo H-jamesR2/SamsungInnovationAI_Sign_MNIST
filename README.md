@@ -1,4 +1,4 @@
-### Samsung Innovation Campus Sign_MNIST_AI 2021 Project
+### Samsung Innovation Campus 2021 Project Sign_MNIST_AI 
 
 # Sign Language Detection
 
