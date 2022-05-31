@@ -10,6 +10,9 @@
 - Mya Thanegi Soe
 - Giovan Panzanella
 
+# Technologies used:
+**-- Google Collab Pro -- Tensorflow -- Python -- OpenCV -- Pandas -- Matplotlib -- Seaborn -- Keras -- Scikit-Learning**
+
 #### ================
 ### Table of Contents:
 - Problem Definition
